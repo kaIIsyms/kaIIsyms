@@ -1,3 +1,3 @@
 <div align="center">
-<img src="https://moe-counter.glitch.me/get/@:kaIIsyms?theme=kasuterura-4">
+<img src="https://moe-counter.glitch.me/get/@:kaIIsyms?theme=food">
 </div>
